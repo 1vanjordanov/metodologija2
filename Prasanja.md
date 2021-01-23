@@ -30,7 +30,7 @@ from https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27502?fbclid=IwAR2wjko
 
 
 ## Прашање 4.а) Репродусибилност со Google colab  
- [![Open In Colab](https://colab.research.google.com/drive/1cHPiioxAw5DX_fJCmHkHDicEq9BGnl5w?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cHPiioxAw5DX_fJCmHkHDicEq9BGnl5w?usp=sharing)
  
  *(40 поени)* <br>
 Линк до тетратка: [colab_notebook/Kolokvium_januari.ipynb](https://colab.research.google.com/drive/1U83kxeCRj55i0NC6n4o-s1XqVl4FWzpu?usp=sharing)
